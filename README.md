@@ -1,25 +1,14 @@
-### Hi there 👋
-
+### Hi there 👋, Aaradhya Saxena
+#### Data Science and Computer Vision
 I'm Aaradhya from IIT Roorkee, and I do Machine Learning. I enjoy making machines work on my commands(p.s. I like to code).
 I am learning languages and frameworks for machine learning deployment, such as Python and TensorFlow. I also enjoy reading about robotics technology and its implementation in real-life applications.
 
-You can connect on my LinkedIn https://www.linkedin.com/in/aaradhyasaxena/ or email me at saxena4aaradhya@gmail.com
+
+Skills: Python/OpenCV/TensorFlowMATLAB
+
+- 🔭 I’m currently working on Wind-Power prediction system for new Wind Farms. 
+- 🌱 I’m currently learning the application of machine learning in the field of Renewable Energy Sector. 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SAaradhya)](https://git.io/streak-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SAaradhya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aaradhyasaxena//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_aaradhya_saxena_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SaxenaAaradhya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@shades_of_india/featured)  
 
-
-<!--
-**SAaradhya/SAaradhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
