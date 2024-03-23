@@ -2,10 +2,8 @@
 
 I'm Aaradhya from IIT Roorkee, and I do Machine Learning. I enjoy making machines work on my commands(p.s. I like to code).
 I am learning languages and frameworks for machine learning deployment, such as Python and TensorFlow. I also enjoy reading about robotics technology and its implementation in real-life applications.
+
 You can connect on my LinkedIn [https://www.linkedin.com/in/aaradhyasaxena/] or email me at saxena4aaradhya@gmail.com
-
-
-
 
 <!--
 **SAaradhya/SAaradhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
