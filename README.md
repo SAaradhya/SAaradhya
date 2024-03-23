@@ -1,4 +1,4 @@
-![image](https://github.com/SAaradhya/SAaradhya/assets/77209256/65af0e45-7154-48b4-84b4-8cd06add745c)### Hi there 👋,I'm Aaradhya Saxena
+### Hi there 👋,I'm Aaradhya Saxena
 #### Data Science and Computer Vision
 
 I'm Aaradhya from IIT Roorkee, and I do Machine Learning. I enjoy making machines work on my commands(p.s. I like to code).
