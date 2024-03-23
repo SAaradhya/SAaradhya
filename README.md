@@ -1,11 +1,11 @@
 # Hi there 👋,I'm Aaradhya Saxena
-## Data Science and Computer Vision
+### Data Science and Computer Vision
 
 I'm Aaradhya from IIT Roorkee, and I do Machine Learning. I enjoy making machines work on my commands(p.s. I like to code).
 I am learning languages and frameworks for machine learning deployment, such as Python and TensorFlow. I also enjoy reading about robotics technology and its implementation in real-life applications.
 
 
-### Skills and Experience
+## Skills and Experience
 * Python
 * OpenCV/Computer Vision
 * TensorFlow
