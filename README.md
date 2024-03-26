@@ -6,10 +6,7 @@ I am learning languages and frameworks for machine learning deployment, such as 
 
 
 ## Skills and Experience
-* Python
-* OpenCV/Computer Vision
-* TensorFlow
-* MATLAB/Simulink
+![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,linux,ubuntu,opencv,matlab)
 
 ## What's Going
 - 🔭 I’m currently working on Wind-Power prediction system for new Wind Farms. 
@@ -17,4 +14,5 @@ I am learning languages and frameworks for machine learning deployment, such as 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SAaradhya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aaradhyasaxena//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_aaradhya_saxena_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SaxenaAaradhya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@shades_of_india/featured)  
+
 
